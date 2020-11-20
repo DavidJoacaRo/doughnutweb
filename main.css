@@ -9,7 +9,7 @@ body {
 .demo-card-wide > .mdl-card__title {
   color: #FFFFFF;
   height: 212px;
-  background: url('./images/a.PNG') center / cover;
+  background: url('./assets/a.PNG') center / cover;
 }
 .demo-card-wide > .mdl-card__menu {
   color: #fff;
